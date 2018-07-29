@@ -476,3 +476,4 @@ ASALocalRun/
 
 
 # End of https://www.gitignore.io/api/macos,python,visualstudio,visualstudiocode
+/administration
